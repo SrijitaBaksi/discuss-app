@@ -9,8 +9,8 @@ This is a **PHP + MySQL** powered project designed for simplicity, scalability, 
 
 
 ## 📸 Sneak Peek
+![Image](https://github.com/user-attachments/assets/7a03a4c6-e986-42e9-a90f-ad0a23b35c60)
 
-> Replace with screenshots if available  
 - 🟢 Home Page  
 - 🔐 Sign Up / Login  
 - ❓ Ask Question  
