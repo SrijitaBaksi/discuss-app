@@ -48,24 +48,6 @@ This is a **PHP + MySQL** powered project designed for simplicity, scalability, 
 
 ---
 
-## 📁 Folder Structure
-
-```bash
-discuss/
-├── css/                 # Styling files (Bootstrap + Custom CSS)
-├── js/                  # Optional JavaScript for interactivity
-├── includes/            # Common includes like DB connection, header, footer
-├── auth/                # Authentication logic: Signup, Login, Logout
-├── dashboard.php        # Main user dashboard showing latest activity
-├── ask-question.php     # Form for submitting a new question
-├── answer.php           # View and answer specific questions
-├── filter.php           # Filter questions based on category
-├── index.php            # Homepage displaying all questions
-└── ...                  # Additional utility files or enhancements
-```
-
----
-
 ## 🤓 What I Learned
 
 - Writing clean, modular PHP code with security in mind.
